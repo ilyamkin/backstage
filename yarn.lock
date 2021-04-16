@@ -6691,11 +6691,11 @@
   integrity sha512-RJJrrySY7A8havqpGObOB4W92QXKJo63/jFLLgpvOtsGUqbQZ9Sbgl35KMm1DjC6j7AvmmU2bIno+3IyEaemaw==
 
 "@types/start-server-webpack-plugin@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.npmjs.org/@types/start-server-webpack-plugin/-/start-server-webpack-plugin-2.2.0.tgz#a7c4595c715eda083d92ca1ea184d97db3d8fc7b"
-  integrity sha512-TFiZWMPuiMR/utvjk6ENi0HPtQl38HnPMYfJqm04ztpzITHzTCXt7T7LyXnP9eTwg4lLQkmRUaFy04iEyjoJmw==
+  version "2.2.1"
+  resolved "https://registry.npmjs.org/@types/start-server-webpack-plugin/-/start-server-webpack-plugin-2.2.1.tgz#8320f8bd7842206b613b0f647e4da4b530f9ef6c"
+  integrity sha512-eaLLNpgwkPJLLVEe6v0UF8q9+MUladXxkUhTazk68xz/CYeVppXioPsmNPMIoYHt5naGC/b7R6itTnWx0MMgGA==
   dependencies:
-    "@types/webpack" "*"
+    "@types/webpack" "^4"
 
 "@types/stoppable@^1.1.0":
   version "1.1.0"
