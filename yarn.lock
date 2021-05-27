@@ -14672,9 +14672,9 @@ headers-utils@^1.2.0:
   integrity sha512-4/BMXcWrJErw7JpM87gF8MNEXcIMLzepYZjNRv/P9ctgupl2Ywa3u1PgHtNhSRq84bHH9Ndlkdy7bSi+bZ9I9A==
 
 helmet@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.npmjs.org/helmet/-/helmet-4.0.0.tgz#34c187894ed001834f997c688f2b2df19846b193"
-  integrity sha512-HyoRKKHhWhO6+EBfgRLkuZR4/+NXc1nJB7x0bWwW89i9eoPciK0qUqyZNOA/zowpgrW9C4+J5toqMkZrpBOlkg==
+  version "4.6.0"
+  resolved "https://registry.npmjs.org/helmet/-/helmet-4.6.0.tgz#579971196ba93c5978eb019e4e8ec0e50076b4df"
+  integrity sha512-HVqALKZlR95ROkrnesdhbbZJFi/rIVSoNq6f3jA/9u6MIbTsPh3xZwihjeI5+DO/2sOV6HMHooXcEOuwskHpTg==
 
 hex-color-regex@^1.1.0:
   version "1.1.0"
